@@ -210,4 +210,5 @@ C:\xampp\php\php.exe test_smartmed.php
 > **IMPORTANT:** SmartMed is developed strictly for educational and demonstration purposes as a B.Tech college CEP project demonstration. All clinical records, inventory numbers, and FEFO suggestions are provided for inventory and reference purposes only, not a substitute for professional medical advice, diagnosis, or treatment. Medicines must be dispensed solely according to qualified healthcare professionals' prescriptions and regulatory guidelines.
 #   N e w _ M e d t e c h  
  #   m e d T e c h  
+ #   m e d T e c h  
  
